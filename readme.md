@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Recent graduate with Bachelor's Degree in Computer Science. Cofounder & CIO of Hime https://www.hime.ai/<br>
 👨🏻‍💻 My personal website is www.mattserdukoff.com<br>
-✍🏻I’m currently working on Grammario, a WebApp that will help its users learn languages' grammar through the power of AI<br>👯 I’m looking to collaborate on any interesting NLP, or Machine Learning related projects<br>🌱 I’m currently learning to become an expert in all things Machine Learning, whether it be just plain old Logistic Regression or LLMs<br>⚡ Fun fact: I speak 2 languages fluently
+✍🏻I’m currently working on Grammario, a WebApp that will help its users learn languages' grammar through the power of AI<br>👯 I’m looking to collaborate on any interesting NLP, or Machine Learning related projects<br>🌱 I’m currently learning to become an expert in all things Machine Learning, whether it be just plain old Logistic Regression or LLMs<br>
 
 
 ## 🌐 Socials:
